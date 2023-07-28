@@ -1,6 +1,6 @@
 # 2D-Graphics-Project
 
-This is a basic 2D graphics project created using C++ and the SDL graphics library. The project allows the user to draw basic shapes on the screen, add color, interactivity, animation, and sound effects.
+This is a basic 2D graphics project created using C++ and the SDL graphics library. The project allows the user to draw basic shapes on the screen and add color.
 
 ## Prerequisites
 Before running the project, you will need to install C++ compiler.
